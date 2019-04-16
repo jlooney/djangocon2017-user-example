@@ -1,5 +1,5 @@
 # djangocon2017-user-example
-Notes for my Djangocon 2017 talk 'Getting the Most out of Django's User Model.' If you have any questions for me, please feel free to email me at jlooney@utexas.edu! 
+Notes for my Djangocon 2017 talk 'Getting the Most out of Django's User Model.'
 
 My talk covered three main options for customizing the user model.
 
